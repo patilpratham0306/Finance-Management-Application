@@ -19,7 +19,7 @@ The **Finance Management Application** is a Python-based tool designed to help u
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/finance-management.git
+   git clone https://github.com/patilpratham0306/Finance-Management-Application.git
    cd finance-management
    ```
 2. Install dependencies:
@@ -38,7 +38,4 @@ The **Finance Management Application** is a Python-based tool designed to help u
 
 ## Contributing
 Contributions are welcome! Feel free to fork this repository and submit pull requests.
-
-## License
-This project is licensed under the MIT License.
 
